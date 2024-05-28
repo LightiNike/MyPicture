@@ -1,0 +1,98 @@
+{
+  "FPSDisplay": {
+    "name": "FPSDisplay",
+    "x": 0.05,
+    "y": 0.05,
+    "position": "LT"
+  },
+  "ArmorDisplay": {
+    "name": "ArmorDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "MusicDisplay": {
+    "name": "MusicDisplay",
+    "x": 0.01,
+    "y": 0.01,
+    "position": "RT"
+  },
+  "Scoreboard": {
+    "name": "Scoreboard",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "PotionDisplay": {
+    "name": "PotionDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "CPSDisplay": {
+    "name": "CPSDisplay",
+    "x": 0.05,
+    "y": 0.05,
+    "position": "LT"
+  },
+  "Keystrokes": {
+    "name": "Keystrokes",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "ReachDisplay": {
+    "name": "ReachDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "ComboDisplay": {
+    "name": "ComboDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "LyricsDisplay": {
+    "name": "LyricsDisplay",
+    "x": 0.5,
+    "y": 0.2,
+    "position": "CT"
+  },
+  "InventoryDisplay": {
+    "name": "InventoryDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "TargetDisplay": {
+    "name": "TargetDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "PlayerDisplay": {
+    "name": "PlayerDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "PingDisplay": {
+    "name": "PingDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "CoordsDisplay": {
+    "name": "CoordsDisplay",
+    "x": 0.0,
+    "y": 0.0,
+    "position": "LT"
+  },
+  "ModsList": {
+    "name": "ModsList",
+    "x": 1.0,
+    "y": 0.0,
+    "position": "LT"
+  }
+}
